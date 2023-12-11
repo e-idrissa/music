@@ -1,0 +1,2 @@
+RewriteEngine On #Activer le module RewriteEngine
+RewriteRule ^api/auth/register/?$ api/auth/register.php [NC,L]
