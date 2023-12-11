@@ -1,0 +1,4 @@
+Voici le fonctionnement du code: 
+    1. Executer le fichier sql dans votre phpmyadmin pour avoir la base de donnees
+    2. Ouvrir votre localhost et aller a api/auth/test
+    3. Vous aurez un formulaire precomplete que vous aller envoyer. Si tout marche bien, vous devez etre redirige sur le dashboard
